@@ -19,7 +19,7 @@
 - 🔭 Atualmente trabalho desenvolvendo **soluções de integração de dados**, consumo e criação de **APIs** e ferramentas de **automação**.
 - 🌱 Meu foco está em **Desenvolvimento Back-end** e no ecossistema de **Data Science**.
 - 💬 Me pergunte sobre desenvolvimento ou dados [aqui](https://github.com/HenriSakata/HenriSakata/issues)! Estou sempre disponível para ajudar e aprender.
-- ⚡ Fato curioso: Se não estou codando, provavelmente estou explorando novas tecnologias ou tomando café ☕
+
 
 <br/>
 
@@ -67,21 +67,4 @@
 
 ![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=HenriSakata&bg_color=0d1117&color=28d37d&line=28d37d&point=28d37d&area=true&hide_border=true)
 
----
 
-<h3 align="center">📫 Onde me encontrar</h3>
-<p align="center">
-  <a href="https://github.com/HenriSakata" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:henrisanesa@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/henrisakata" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>⭐ Não esqueça de deixar uma estrela nos projetos que você gostar! ⭐</i>
-</p>
